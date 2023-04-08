@@ -33,15 +33,12 @@ section {
     margin: auto;
 }
 .about,
-.services,
 .skills,
-.teams,
 .contact,
 footer {
     font-family: "Poppins", sans-serif;
 }
 .about .about-content,
-.services .serv-content,
 .skills .skills-content,
 .contact .contact-content {
     display: flex;
